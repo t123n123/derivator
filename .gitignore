@@ -1,0 +1,6 @@
+*.hi
+*.o
+*.tex
+*.png
+main
+*.log
